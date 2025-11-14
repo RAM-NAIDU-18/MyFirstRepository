@@ -1,2 +1,0 @@
-userName = ramNaidu 18
-passCode 9009
